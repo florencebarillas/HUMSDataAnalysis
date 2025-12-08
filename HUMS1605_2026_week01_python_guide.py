@@ -17,10 +17,10 @@ To make sure you've successfully created a copy of this notebook, please click "
 This notebook makes use of a few files that are not present in the current notebook environment. To load those resources, please hover your mouse between the [ ] braces in the cell below and click the play button that appears. Once you've done that, we're ready to start the notebook!
 """
 
-!wget https://raw.githubusercontent.com/YaleDHLab/lab-workshops/master/first-steps-with-python/alice-in-wonderland.txt
-!wget https://raw.githubusercontent.com/YaleDHLab/lab-workshops/master/first-steps-with-python/alice-ocr.txt
-!wget https://raw.githubusercontent.com/YaleDHLab/lab-workshops/master/first-steps-with-python/helpers.py
-!wget https://raw.githubusercontent.com/YaleDHLab/lab-workshops/master/first-steps-with-python/jabberwocky.txt
+!wget https://github.com/sayanbhattacharyya/hda/blob/main/alice-in-wonderland.txt
+!wget https://github.com/sayanbhattacharyya/hda/blob/main/alice-ocr.txt
+!wget https://github.com/sayanbhattacharyya/hda/blob/main/helpers.py
+!wget https://github.com/sayanbhattacharyya/hda/blob/main/jabberwocky.txt
 
 """# Introduction to Python
 
