@@ -1,0 +1,1 @@
+These materials are for use in the Spr 2025 offering of HUMS 1605, Humanities Data Analysis. They are based on material originally created and used by Dr. Peter Leonard and his associates in the Spr 2022 offering of a similar course.
